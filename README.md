@@ -1,4 +1,4 @@
-# {{NAME}} Working Group
+# SMACC Working Group
 
 {{
 TEMPLATE: This repository acts as a template for individual Working Groups to start from.
