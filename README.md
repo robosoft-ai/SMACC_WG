@@ -18,9 +18,10 @@ We will be focused on…
 
 ### Meetings
 
-* Regular WG Meeting: {{time schedule for meetings}}
-  * {{when and where will meetings be announced}}
-  * {{what artifacts will be posted after the meetings, e.g. Minutes, Recordings}}
+Meeting will generally happen once a month or more often. Meetings will be announced on ROS Discourse and minutes will be kept.
+
+  * Proposal for the SMACC Working Group 
+  * Rolling Agenda and Minutes
 
 ### Communication Channels
 
