@@ -25,11 +25,17 @@ Meeting will generally happen once a month or more often. Meetings will be annou
 
 ### Communication Channels
 
-{{How can members communicate with each other? Discourse, Discord, IRC, email list, etc.}}
+Meeting invite group: Meeting invite group
+Github repo: ros-acceleration
+Discourse tag: wg-acceleration
 
 ### Backlog Management
 
-{{Is any project management software/site used to track work for this Working Group? How can new members discover the highest impact tasks they could take on? GitHub Projects, ZenHub, etc.}}
+Backlog management is performed using Github Issues & Projects on the following repos:
+
+SMACC
+SMACC2
+SMACC_WG
 
 ### Membership, Roles and Organization Management
 
@@ -55,6 +61,7 @@ Working Group members may act in one or more of the following roles:
 
 To become a member or change role, create an issue in this repository using the appropriate issue template.
 Such applications are accepted upon unanimous agreement from Approvers, and are typically based on the applicant's history with the subprojects of the Working Group.
+
 The Lead role cannot be applied for, as it is an appointee of the ROS 2 TSC.
 
 ### Modifying this governance document
