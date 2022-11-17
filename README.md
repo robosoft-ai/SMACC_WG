@@ -25,17 +25,19 @@ Meeting will generally happen once a month or more often. Meetings will be annou
 
 ### Communication Channels
 
-Meeting invite group: Meeting invite group
-Github repo: ros-acceleration
-Discourse tag: wg-acceleration
+Meeting invite group: [Meeting invite group](https://pages.github.com/)
+
+Github repo: [SMACC_WG](https://pages.github.com/)
+
+Discourse tag: [wg-smacc](https://pages.github.com/)
 
 ### Backlog Management
 
 Backlog management is performed using Github Issues & Projects on the following repos:
 
-SMACC
-SMACC2
-SMACC_WG
+  * [SMACC Repository for ROS1](https://github.com/robosoft-ai/SMACC)
+  * [SMACC2 Repository for ROS2](https://github.com/robosoft-ai/SMACC2)
+  * [SMACC Working Group Repository](https://github.com/robosoft-ai/SMACC_WG)
 
 ### Membership, Roles and Organization Management
 
