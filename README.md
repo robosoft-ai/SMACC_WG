@@ -20,16 +20,16 @@ We will be focused on…
 
 Meeting will generally happen once a month or more often. Meetings will be announced on ROS Discourse and minutes will be kept.
 
-  * [Proposal for the SMACC Working Group](https://pages.github.com/)
-  * [Rolling Agenda and Minutes](https://pages.github.com/)
+  * [Proposal for the SMACC Working Group](https://discourse.ros.org/t/proposal-for-smacc-wg/27331)
+  * [Rolling Agenda and Minutes](https://docs.google.com/document/d/1vizP6lzpi6iwjjmCyGV2VlArftpxNB7oAu5f76Ofpxw/edit#heading=h.koswsc4mb967)
 
 ### Communication Channels
 
-Meeting invite group: [Meeting invite group](https://pages.github.com/)
+Meeting invite group: [Meeting invite group](smacc-wg@googlegroups.com)
 
-Github repo: [SMACC_WG](https://pages.github.com/)
+Working Group Github repo: [SMACC_WG](https://github.com/robosoft-ai/SMACC_WG)
 
-Discourse tag: [wg-smacc](https://pages.github.com/)
+Discourse tag: [wg-smacc](https://discourse.ros.org/tag/wg-smacc)
 
 ### Backlog Management
 
