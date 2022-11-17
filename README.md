@@ -2,9 +2,16 @@
 
 This document defines the scope and governance of the SMACC Working Group (SMACC WG).
 
-Mission: The SMACC Working Group's mission is to...
+Mission: The SMACC Working Group's mission is tO advance the current state of the art in robotic applications, by utilizing the SMACC state machine library for ROS and ROS2.
 
-{{Scope: the types of topics, tools, libraries, applications, documents, etc, that this working group focuses on. }}
+We will be focused on…
+
+ * The creation of new SMACC state machine examples that demonstrate advanced autonomy capabilities.
+ * The creation of new SMACC clients that will enable the utilization of SMACC on platforms with different peripherals.
+ * Improvements to the core SMACC library, bug-fixes, new features, etc.
+ * Improving the documentation of the library.
+ * Surveying the community interest in using SMACC for particular use cases in ROS 2 and Gazebo.
+ * Producing demonstrations with real robots that utilize SMACC to meet their application requirements.
 
 
 ## Governance
