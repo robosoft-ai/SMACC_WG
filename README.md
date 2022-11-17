@@ -20,8 +20,8 @@ We will be focused on…
 
 Meeting will generally happen once a month or more often. Meetings will be announced on ROS Discourse and minutes will be kept.
 
-  * Proposal for the SMACC Working Group 
-  * Rolling Agenda and Minutes
+  * [Proposal for the SMACC Working Group](https://pages.github.com/)
+  * [Rolling Agenda and Minutes](https://pages.github.com/)
 
 ### Communication Channels
 
