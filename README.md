@@ -25,7 +25,7 @@ Meeting will generally happen once a month or more often. Meetings will be annou
 
 ### Communication Channels
 
-  * Meeting invite group: [Meeting invite group](smacc-wg@googlegroups.com)
+  * Meeting invite group: [smacc-wg@googlegroups.com](smacc-wg@googlegroups.com)
   * Working Group Github repo: [SMACC_WG](https://github.com/robosoft-ai/SMACC_WG)
   * Discourse tag: [wg-smacc](https://discourse.ros.org/tag/wg-smacc)
 
